@@ -1,0 +1,4 @@
+SMART HOME Membuka Garasi Otomatis
+
+Pintu garasi akan membuka dan lampu akan menyala secara otomatis jika mendeteksi adanya gerakan.
+kondisi tersebut sudah disetting pada condition pada client PC. 
